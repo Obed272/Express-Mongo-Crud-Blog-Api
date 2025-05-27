@@ -25,7 +25,7 @@ It supports the following operations:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/express-mongo-crud-blog-api.git
+git clone https://github.com/Obed272/express-mongo-crud-blog-api.git
 cd express-mongo-crud-blog-api
 ```
 
