@@ -112,18 +112,6 @@ npm start
 ├── package.json
 └── README.md
 ```
-
----
-
-## ✅ Future Improvements
-
-- Add authentication (JWT)
-- Pagination and search
-- Comments for blog posts
-- Swagger API documentation
-
----
-
 ## 🧑‍💻 Author
 
-Made by [Your Name]
+Made by [Nwadinobi Obed]
